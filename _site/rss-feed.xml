@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Blackwood Gardens</title>
+		<description>Designing Gardens for you to Love and Enjoy</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Services</title>
+				
+				
+					<description>&lt;h3 id=&quot;garden-design---planting-design---garden-advice&quot;&gt;Garden Design - Planting Design - Garden Advice&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;assets/img/Services3Dshow.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;garden-design&quot;&gt;Garden Design&lt;/h2&gt;
+&lt;p&gt;Bespoke designs to transform your garden. 
+These start with a detailed brief, survey and site analysis before concept drawings, mood boards and 3D visuals are developed.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Services</link>
+				<guid isPermaLink="true">http://localhost:4000/Services</guid>
+			</item>
+		
+			<item>
+				<title>Get in Touch</title>
+				
+				
+					<description>&lt;h5 id=&quot;ready-to-start-your-next-project-with-us&quot;&gt;Ready to start your next project with us?&lt;/h5&gt;
+</description>
+				
+				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Contact</link>
+				<guid isPermaLink="true">http://localhost:4000/Contact</guid>
+			</item>
+		
+			<item>
+				<title>About</title>
+				
+				
+					<description>&lt;p&gt;Anna Blackwood runs Blackwood Gardens, she trained in Garden Design at SRUC in Edinburgh and studied horticulture at RGBE and is a pre-registered member of the Society of Garden designers.
+Anna is a keen gardener, with a wide plant knowledge. 
+She loves the challenge of transforming outdoor spaces into beautiful, practical gardens loved by their owner.
+Blackwood Gardens is a design studio operating from East Lothian and working across Scotland. 
+We work in partnership with landscape professionals to deliver quality garden transformations. 
+&lt;img src=&quot;/assets/img/annaplants.jpg&quot; alt=&quot;anna&quot; /&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/About</link>
+				<guid isPermaLink="true">http://localhost:4000/About</guid>
+			</item>
+		
+			<item>
+				<title>Front and Back Garden Dunfermline</title>
+				
+				
+					<description>&lt;h2 id=&quot;back-garden&quot;&gt;Back garden&lt;/h2&gt;
+&lt;p&gt;The brief was to improve access around the garden as it had awkward steps, a steep planting bank, slippery deck and rough gravel paths. The owner is a keen gardener and wanted lots of space for planting, a wildlife pond and space to grow vegetables. They also wanted a new seating area with a combined shed/greenhouse building and summerhouse.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Dunfermline</link>
+				<guid isPermaLink="true">http://localhost:4000/Dunfermline</guid>
+			</item>
+		
+			<item>
+				<title>New build garden - Alva</title>
+				
+				
+					<description>&lt;p&gt;The brief for this brand new house and garden was to create a garden for socialising, which maximised the view of the hills, provided pollinator friendly planting, space for the hot tub and space to grow some vegetables.
+&lt;img src=&quot;/assets/img/AlvaAfter2.jpg&quot; alt=&quot;Alva&quot; /&gt;
+&lt;em&gt;Social Patio area with view&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Alva</link>
+				<guid isPermaLink="true">http://localhost:4000/Alva</guid>
+			</item>
+		
+			<item>
+				<title>Planting Design Murrayfield</title>
+				
+				
+					<description>&lt;p&gt;This newly landscaped garden needed plants! 
+I was brought in to design the planting for the owner who was keen to develop the garden and learn more about the plants. 
+The planting was designed for harmonious colours and seasonal interest.
+&lt;img src=&quot;/assets/img/MurrayHespranthus.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Hesperantha late flowering Perennial&lt;/em&gt;
+&lt;img src=&quot;/assets/img/MurrayVerbena.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Vernena bonariensis&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				
+				<pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Murrayfield</link>
+				<guid isPermaLink="true">http://localhost:4000/Murrayfield</guid>
+			</item>
+		
+			<item>
+				<title>Show Garden</title>
+				
+				
+					<description>&lt;p&gt;SRUC show garden: College show garden at Gardening Scotland 2019 ‘Bayet’ garden winning Silver Gilt&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/ShowGarden</link>
+				<guid isPermaLink="true">http://localhost:4000/ShowGarden</guid>
+			</item>
+		
+			<item>
+				<title>City Roof Top Terrace - Edinburgh</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/assets/img/Quartermilelevel6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Featured large planters to compliment old and new buildings&lt;/em&gt;
+&lt;img src=&quot;/assets/img/QuatermileRustyPlanter.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Lower terrace – planted with a selections of grasses, shrubs and trees that can cope with the windy location&lt;/em&gt;
+&lt;img src=&quot;/assets/img/Quartermile7.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Upper Terrace – mix of grasses and perennials for bright airy feel with yellows, terracotta’s and red&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/Quartermile</link>
+				<guid isPermaLink="true">http://localhost:4000/Quartermile</guid>
+			</item>
+		
+			<item>
+				<title>Border Rejuvination East Lothian</title>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;Achillea ‘Salmon Beauty’&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/Border</link>
+				<guid isPermaLink="true">http://localhost:4000/Border</guid>
+			</item>
+		
+	</channel>
+</rss>
