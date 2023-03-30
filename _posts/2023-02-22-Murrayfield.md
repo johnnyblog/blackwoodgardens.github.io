@@ -2,7 +2,7 @@
 layout: post
 title: "Planting Design Murrayfield"
 categories: projects
-tags: [planting,sample]
+tags: [projects]
 image: MurrayMelicaGrass.jpg
 ---
 This newly landscaped garden needed plants! 

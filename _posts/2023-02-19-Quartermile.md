@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "City Roof Top Terrace - Edinburgh"
-categories: projects
-tags: [planting,sample]
+categories: [projects]
+tags: [projects]
 image: QuartermileLevel7planting.jpg
 ---
 ![](/assets/img/Quartermilelevel6.jpg)

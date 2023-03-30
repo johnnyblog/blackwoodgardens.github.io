@@ -18,8 +18,8 @@ These start with a detailed brief, survey and site analysis before concept drawi
 </description>
 				
 				<pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Services</link>
-				<guid isPermaLink="true">http://localhost:4000/Services</guid>
+				<link>/Services</link>
+				<guid isPermaLink="true">/Services</guid>
 			</item>
 		
 			<item>
@@ -30,8 +30,8 @@ These start with a detailed brief, survey and site analysis before concept drawi
 </description>
 				
 				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Contact</link>
-				<guid isPermaLink="true">http://localhost:4000/Contact</guid>
+				<link>/Contact</link>
+				<guid isPermaLink="true">/Contact</guid>
 			</item>
 		
 			<item>
@@ -47,8 +47,8 @@ We work in partnership with landscape professionals to deliver quality garden tr
 </description>
 				
 				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/About</link>
-				<guid isPermaLink="true">http://localhost:4000/About</guid>
+				<link>/About</link>
+				<guid isPermaLink="true">/About</guid>
 			</item>
 		
 			<item>
@@ -60,8 +60,8 @@ We work in partnership with landscape professionals to deliver quality garden tr
 </description>
 				
 				<pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Dunfermline</link>
-				<guid isPermaLink="true">http://localhost:4000/Dunfermline</guid>
+				<link>/Dunfermline</link>
+				<guid isPermaLink="true">/Dunfermline</guid>
 			</item>
 		
 			<item>
@@ -74,8 +74,8 @@ We work in partnership with landscape professionals to deliver quality garden tr
 </description>
 				
 				<pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Alva</link>
-				<guid isPermaLink="true">http://localhost:4000/Alva</guid>
+				<link>/Alva</link>
+				<guid isPermaLink="true">/Alva</guid>
 			</item>
 		
 			<item>
@@ -90,13 +90,13 @@ The planting was designed for harmonious colours and seasonal interest.
 &lt;img src=&quot;/assets/img/MurrayVerbena.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Vernena bonariensis&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
+
 &lt;/blockquote&gt;
 </description>
 				
 				<pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Murrayfield</link>
-				<guid isPermaLink="true">http://localhost:4000/Murrayfield</guid>
+				<link>/Murrayfield</link>
+				<guid isPermaLink="true">/Murrayfield</guid>
 			</item>
 		
 			<item>
@@ -106,9 +106,9 @@ The planting was designed for harmonious colours and seasonal interest.
 					<description>&lt;p&gt;SRUC show garden: College show garden at Gardening Scotland 2019 ‘Bayet’ garden winning Silver Gilt&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/ShowGarden</link>
-				<guid isPermaLink="true">http://localhost:4000/ShowGarden</guid>
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+				<link>/ShowGarden</link>
+				<guid isPermaLink="true">/ShowGarden</guid>
 			</item>
 		
 			<item>
@@ -123,9 +123,9 @@ The planting was designed for harmonious colours and seasonal interest.
 &lt;em&gt;Upper Terrace – mix of grasses and perennials for bright airy feel with yellows, terracotta’s and red&lt;/em&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/Quartermile</link>
-				<guid isPermaLink="true">http://localhost:4000/Quartermile</guid>
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+				<link>/Quartermile</link>
+				<guid isPermaLink="true">/Quartermile</guid>
 			</item>
 		
 			<item>
@@ -135,9 +135,9 @@ The planting was designed for harmonious colours and seasonal interest.
 					<description>&lt;p&gt;&lt;em&gt;Achillea ‘Salmon Beauty’&lt;/em&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/Border</link>
-				<guid isPermaLink="true">http://localhost:4000/Border</guid>
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+				<link>/Border</link>
+				<guid isPermaLink="true">/Border</guid>
 			</item>
 		
 	</channel>

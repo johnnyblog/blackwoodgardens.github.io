@@ -4,13 +4,15 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'G-QCH4H44KRJ'
+google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Services',  url: 'services'}
 - {name: 'Featured Projects',  url: 'projects'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
+- {url: 'docs'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -26,8 +28,8 @@ pagination:
   next_page: ''
   previous_page: ''
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Feel free to share !'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'explore ...'
 hide_post_date: 'true'
 post_date_prefix:  ''

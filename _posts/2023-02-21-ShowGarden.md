@@ -2,7 +2,7 @@
 layout: post
 title: "Show Garden"
 categories: projects
-tags: [planting,sample]
+tags: [projects]
 image: showbridge.jpg
 ---
 

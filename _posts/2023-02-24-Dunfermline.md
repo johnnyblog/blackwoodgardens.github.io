@@ -2,7 +2,7 @@
 layout: post
 title: "Front and Back Garden Dunfermline"
 categories: projects
-tags: [projects,sample]
+tags: [projects]
 image: SweetPeaDunfermline.jpg
 ---
  
